@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/circle.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/selection.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/selRect.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/resFont.spritefont</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/black.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/minerals1.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/Citadel.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/mach.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/Barracks.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/water.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/ground.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/catapult.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/archer.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/knight.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/worker.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/cat_proj.png</File>
+    <File>/home/z/gitStuff/ahjas/ahjas/Content/arch_proj.png</File>
+  </SourceFiles>
+</SourceFileCollection>

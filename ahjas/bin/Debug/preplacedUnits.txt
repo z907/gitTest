@@ -1,0 +1,7 @@
+Worker 200 400 1
+Worker 270 400 1
+Worker 340 400 1
+Worker 400 400 1
+Archer 500 300 1
+Knight 600 300 1
+Citadel 300 250 1

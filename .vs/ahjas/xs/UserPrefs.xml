@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{078FC4C4-FCAC-4076-8A9C-EC338AE7020D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ahjas/Game1.cs">
+    <Files>
+      <File FileName="ahjas/Game1.cs" Line="167" Column="1" />
+      <File FileName="ahjas/BaseUnit.cs" Line="417" Column="32" />
+      <File FileName="ahjas/PlayerBase.cs" Line="273" Column="29" />
+      <File FileName="ahjas/UnitCatalog.cs" Line="83" Column="30" />
+      <File FileName="ahjas/Order.cs" Line="1" Column="1" />
+      <File FileName="ahjas/Panel.cs" Line="43" Column="119" />
+      <File FileName="ahjas/Field.cs" Line="49" Column="39" />
+      <File FileName="ahjas/Program.cs" Line="43" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ahjas" expanded="True">
+            <Node name="ahjas" expanded="True">
+              <Node name="Game1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ahjas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
