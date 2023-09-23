@@ -10,6 +10,7 @@ namespace ahjas
 	/// <summary>
 	/// This is the main type for your game.
 	/// </summary>
+	/// АААААААА НЕГРЫЫЫЫЫЫЫыыы
 	public delegate bool CheckForSpec(int x, int y, int dist, string name);
 	[Serializable]
 	public class Game1 : Game
